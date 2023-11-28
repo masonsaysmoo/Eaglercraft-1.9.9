@@ -142,5 +142,8 @@ echo killing bungeecord and nginx...
 nginx -s stop -c ~/$REPL_SLUG/nginx.conf -g 'daemon off; pid /tmp/nginx/nginx.pid;' -p /tmp/nginx -e /tmp/nginx/error.log
 pkill java
 pkill nginx
-
+"perm ban = peacful_April"
+"var = ban"
+"Screen text: Sorry you have been banned from IP and Name next time do good choices"
+"time = 365 day left"
 echo done!
